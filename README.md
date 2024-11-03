@@ -11,10 +11,15 @@ Welcome to JavaScript Music Player – a sleek, feature-rich music player crafte
 ###✨ Features
 
 🎵 Play/Pause: Toggle music playback with a single click.
+
 ⏮️ Next/Previous: Skip forward or backward in the playlist.
+
 🔀 Shuffle & Repeat: Randomize playback or loop the current song for endless vibes.
+
 ⏳ Progress Bar: Track your song’s progress and jump to any part.
+
 🎤 Song Details: Display song title, artist, and album cover.
+
 📂 Playlist Toggle: Easily browse and select songs from your playlist.
 
 ### 💻 Technologies Used
